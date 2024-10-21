@@ -1,1 +1,0 @@
-# two-tiers-app-terraform
